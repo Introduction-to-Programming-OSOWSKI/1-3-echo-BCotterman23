@@ -1,4 +1,4 @@
 #WRITE YOUR CODE IN THIS FILE
-def echo(word , b):
-    for i in range(0,b):
-        return(word)
+def echo(a , b ):
+    return(a * b)
+echo("hello" ,5)
